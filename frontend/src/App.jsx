@@ -20,7 +20,7 @@ function App() {
 	}, [authCheck]);  
     
  
-	  
+	
 	if (isCheckingAuth) {  
 		return (
 			<div className='h-screen'>

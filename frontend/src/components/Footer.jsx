@@ -4,7 +4,7 @@ const Footer = () => {
 			<div className='flex items-center justify-between gap-4 md:h-24 md:flex-row'>
 				<p className='text-balance text-center text-sm leading-loose text-muted-foreground md:text-left'>
 					<span className='px-6'>Mmmut gorakhpur</span>
-					<span className='px-6'><a href="https://github.com/vishal086" target="_blank">Github</a></span>
+					<span className='px-6'><a href="https://github.com/pawan9024" target="_blank">Github</a></span>
 					<span className='px-6'>@copyright 2024</span>
 				</p>
 
